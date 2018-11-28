@@ -43,7 +43,7 @@ Paper to be presented at the 2nd Workshop on Machine Learning for Creativity and
 
     @article{deepmeditations2018,
       title={Deep Meditations: Controlled navigation of latent space},
-      author={Akten, Memo},
+      author={Akten, Memo and Fiebrink, Rebecca and Grierson, Mick},
       journal={NeurIPS, Workshop on Machine Learning for Creativity and Design},
       year={2018}
     }
