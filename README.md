@@ -6,6 +6,9 @@ I used this to create [www.deepmeditations.ai](www.deepmeditations.ai) (editing 
 More information and motivations at
 https://medium.com/@memoakten/deep-meditations-meaningful-exploration-of-ones-inner-self-576aab2f3894
 
+Paper:
+https://nips2018creativity.github.io/doc/Deep_Meditations.pdf
+
 # Installation
 Clone or download the repo, and install dependencies with ```pip install -r requirements.txt```.
 If I've missed anything (very possible - I extracted this from a much larger set of packages I've been developing and working with) please file an issue. I've only tested this with python 2.7 on Ubuntu, but I think it should work on any OS, and with python 3.x too.
